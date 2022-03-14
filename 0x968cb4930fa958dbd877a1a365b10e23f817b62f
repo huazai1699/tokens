@@ -1,0 +1,11 @@
+{
+ "name": "Huli DK",
+ "website": "..",
+ "description": "HLDKCommitted to community consensus and building Web3 0 era, using metauniverse NFT to provide high-quality services and products for the community.",
+ "explorer": "https://bscscan.com/token/0x968cb4930fa958dbd877a1a365b10e23f817b62f",
+ "type": "BEP20",
+ "symbol": "HLDK",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x968cb4930fa958dbd877a1a365b10e23f817b62f"
+} 
